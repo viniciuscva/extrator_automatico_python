@@ -1,4 +1,4 @@
-# Pipeline implementado em Python de um modelo extrator automático de informações preenchidas em formulários acadêmicos da UEPB
+# Pipeline implementado em Python de um extrator automático de informações preenchidas em formulários acadêmicos da UEPB
 
 Este repositório contém os códigos desenvolvidos no meu Trabalho de Conclusão de Curso, para proposta de um modelo extrator automático de informações preenchidas à mão em formulários de requerimento acadêmico da UEPB em formato de imagem (escaneado). 
 
